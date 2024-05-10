@@ -1,4 +1,4 @@
-package com.hsupai.autodoc;
+package com.hsupai.kata;
 
 import static org.junit.Assert.*;
 
